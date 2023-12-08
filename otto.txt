@@ -10,3 +10,5 @@ otto holt obst
 otto horcht
 otto: mops mops
 otto hofft
+
+otto mag anscheinend möpse
